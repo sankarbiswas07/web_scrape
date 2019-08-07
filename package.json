@@ -1,0 +1,20 @@
+{
+  "name": "web-scarp",
+  "version": "1.0.0",
+  "description": "webScapt",
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
